@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/sens_by_zip"
+          android:title="@string/by_zip"
+          android:orderInCategory="100"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/rep_by_name"
+        android:title="@string/reps_lastname"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+
+    <item android:id="@+id/sens_by_name"
+          android:title="@string/senators_lastname"
+          android:orderInCategory="100"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/rep_by_state"
+          android:title="@string/reps_state"
+          android:orderInCategory="100"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/sens_by_state"
+          android:title="@string/senators_state"
+          android:orderInCategory="100"
+          android:showAsAction="never" />
+
+</menu>

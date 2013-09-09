@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rain</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="API">http://whoismyrepresentative.com</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="search_by_zip">DESCRIPTION: returns data on both representatives and senators by zipcode</string>
+    <string name="search_by_reps_name">DESCRIPTION: returns data on representatives by lastname</string>
+    <string name="search_by_reps_state">DESCRIPTION: returns data on representatives by state</string>
+    <string name="search_by_senators_name">DESCRIPTION: returns data on senators by lastname</string>
+    <string name="search_by_senators_state">DESCRIPTION: returns data on senators by state</string>
+    <string name="reps_lastname">Representatives by lastname</string>
+    <string name="senators_lastname">Senators by lastname</string>
+    <string name="by_zip">All by zip Code</string>
+    <string name="senators_state">Senators by state</string>
+
+    <string name="reps_state">Representatives by state</string>
+
+
+
+</resources>
